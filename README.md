@@ -4,7 +4,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 This project is about some specific Automobile brands. It contains data of cars like Alto, Beat, Santro, Hawk, Maruti 800 etc., its total sale, sold price, manager, dealers, consumer preference, zone, state and city in which it was sold of 2018-19. This makes easy to do comparision between these cars and where it is mostly sold. lastly it shows the top three and bottom three cars, states, and managers where quantities sold is highest or lowest. It covers the skill sets like Power BI as it is the best platform for data visualization in the most interactive ways. Also it shows various effective chart visuals which makes the dashboard easy to understand and attractive for the viewers. This will help the customers to compare between the best car brands and it will help the Car Companies to focus on those States where sale is higher than other States and plan for the future products according to that.
 
-<a><img align="centre" src="" width="1200" heigth="500">
+<a><img align="centre" src="https://github.com/Ritika821/Automobile-Power-BI-Dashboard/blob/main/Graphs/Automobile.jpg" width="1200" heigth="500">
 </a>
 
 
@@ -20,7 +20,7 @@ This project is about some specific Automobile brands. It contains data of cars 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 In this Project, the measures display total quantity sold of the cars is 9673, total revenue generated is 313M, total State Tax paid is 4.29M and total Car Insurance paid is 28.45M. These are show in the form of KPI.
 
-<a><img align="centre" src="">
+<a><img align="centre" src="https://github.com/Ritika821/Automobile-Power-BI-Dashboard/blob/main/Graphs/KPI.png">
 </a>
 
 ## Project Filters :
@@ -31,9 +31,9 @@ In this Project, there are two filters. First filter is month-wise which is ther
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 In this Project, there were two Tables. First one is State-wise Quantity Sold and second one is State-wise Sold Price. From these tables, I got that Punjab has highest sale of cars followed by Rajasthan and Andhra Pradesh whereas Assam has lowest sale of cars. In case of Revenue generated Punjab is on the top followed by Chandigarh and Haryana whereas Assam is on the lowest position.
 
-<a><img align="left" src="">
+<a><img align="centre" src="https://github.com/Ritika821/Automobile-Power-BI-Dashboard/blob/main/Graphs/State%20by%20Qty%20Sold.png">
 </a>
-<a><img align="right" src="">
+<a><img align="centre" src="https://github.com/Ritika821/Automobile-Power-BI-Dashboard/blob/main/Graphs/State%20by%20Sold%20Price.png">
 </a>
 
 ## Insights of th Project :
