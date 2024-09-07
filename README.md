@@ -45,30 +45,30 @@ This is the first Dashboard in which comparison is done on the basis of Quantity
 **1. Zone-wise Quantity Sold :** 
 From this Pie Chart of Zone, I came to know that West Zone has highest sale of Cars i.e. 3k followed by South whereas East Zone has lowest sale of Cars i.e. 1k.
 
-<a><img align="centre" src="">
+<a><img align="centre" src="https://github.com/Ritika821/Automobile-Power-BI-Dashboard/blob/main/Graphs/Quantity%20Based%20Dashboard/Qty%20Sold%20by%20Zone.png">
 </a>
 
 **2. Total Quantity Sold :**
 Total quantity sold within period 2018-19 is 9673 Cars and crossed the target i.e. 8500 Cars, for which I have used Gauge Chart to dislpay it clearly.
 
-<a><img align="centre" src="">
+<a><img align="centre" src="https://github.com/Ritika821/Automobile-Power-BI-Dashboard/blob/main/Graphs/Quantity%20Based%20Dashboard/Total%20Qty%20Sold.png">
 </a>
 
 **3. Quantity Sold by Category :**
 I have used Line Chart for this data in which it shows that Basic Cars are mostly sold also followed by Luxury one whereas Extra Class Cars are least sold.
 
-<a><img align="centre" src="">
+<a><img align="centre" src="https://github.com/Ritika821/Automobile-Power-BI-Dashboard/blob/main/Graphs/Quantity%20Based%20Dashboard/Qty%20Sold%20by%20Caregory.png">
 </a>
 
 **4. Quantity Sold by States, Dealers and Cars :**
 The three Bar Graphs are submerged in one through "drop down" arrow above the Chart ⬇️. First is State-wise where Punjab is on the top followed by Rajasthan whereas Assam is at the bottom position. Second is on the basis of Dealers in which Bulward is on the top position followed by Nike whereas Mitushi is at the bottom position. Now the last one is on the basis of Cars where ALto is on the top followed by Santro whereas Punto is at the last poition.
 
 <p align="centre">
-<a><img align="centre" src="" height="400" width="600">
+<a><img align="centre" src="https://github.com/Ritika821/Automobile-Power-BI-Dashboard/blob/main/Graphs/Quantity%20Based%20Dashboard/Qty%20Sold%20by%20State.png">
 </a>
-<a><img align="centre" src="" height="400" width="600">
+<a><img align="centre" src="https://github.com/Ritika821/Automobile-Power-BI-Dashboard/blob/main/Graphs/Quantity%20Based%20Dashboard/Qty%20Sold%20by%20Dealer.png">
 </a>
-<a><img align="centre" src="" height="400" width="600">
+<a><img align="centre" src="https://github.com/Ritika821/Automobile-Power-BI-Dashboard/blob/main/Graphs/Quantity%20Based%20Dashboard/Qty%20Sold%20by%20Car.png">
 </a>
 </p>
 
