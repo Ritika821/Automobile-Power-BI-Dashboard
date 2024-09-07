@@ -78,28 +78,28 @@ This is the second Dashboard in which comparison is done on the basis of Revenue
 The two Bar Graphs are submerged in one through "drop down" arrow above the Chart ⬇️. First is State-wise where Punjab is on the top followed by Chandigarh wheras Assam is the least in generating revenue. Second one is City-wise in which Patiala is on the top position followed by Sector 29 and Dwarka whereas Goalpara is the least revenue generator.
 
 <p align="centre">
-<a><img align="centre" src="" height="400" width="600">
+<a><img align="centre" src="https://github.com/Ritika821/Automobile-Power-BI-Dashboard/blob/main/Graphs/Revenue%20Based%20Dashboard/State%20wise%20Sold%20Price.png">
 </a>
-<a><img align="centre" src="" height="400" width="600">
+<a><img align="centre" src="https://github.com/Ritika821/Automobile-Power-BI-Dashboard/blob/main/Graphs/Revenue%20Based%20Dashboard/City%20wise%20Sold%20Price.png">
 </a>
 </p>
 
 **2. Sold Price by Zone :**
 In this I have used Funnel Chart which shows that West side has generated highest revenue followed by South whereas North and East has generated least revenue.
 
-<a><img align="centre" src="">
+<a><img align="centre" src="https://github.com/Ritika821/Automobile-Power-BI-Dashboard/blob/main/Graphs/Revenue%20Based%20Dashboard/Sold%20Price%20by%20Zone.png">
 </a>
 
 **3. Car Revenue :**
 In this I have used Area Chart from which I came to know that Santro is on the Top in generating revenue followed by US18 whereas Maruti 800 is the last one followed by Hawk.
 
-<a><img align="centre" src="">
+<a><img align="centre" src="https://github.com/Ritika821/Automobile-Power-BI-Dashboard/blob/main/Graphs/Revenue%20Based%20Dashboard/Car%20Revenue.png">
 </a>
 
 **4. Car Insurance & State Tax by States :**
 I have used Line Chart for presenting this relation in which I got that Car Insurance and Sold Price are directly-positive correlated means as Sold Price increases Car Insurance also increases in the same way and vice-versa. Car Insurance is highest in Punjab whereas least in Rajsthan and when we talk about State Tax, it is high in Punjab followed by Chandigarh and Karnataka whereas least in Rajasthan.
 
-<a><img align="centre" src="">
+<a><img align="centre" src="https://github.com/Ritika821/Automobile-Power-BI-Dashboard/blob/main/Graphs/Revenue%20Based%20Dashboard/Car%20Insurance%20%26%20State%20Tax%20by%20States.png">
 </a>
 
 ### 3. Top-Bottom Base Dashboard :
