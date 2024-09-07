@@ -106,23 +106,23 @@ I have used Line Chart for presenting this relation in which I got that Car Insu
 This is the last Dashboard in which I have shown the top 3 and bottom 3 Managers, States and Cars. In this I have used Bar Chart with the filter on Cars to show the top and bottom 3.
 
 <p align="centre">
-<a><img align="centre" src="">
+<a><img align="centre" src="https://github.com/Ritika821/Automobile-Power-BI-Dashboard/blob/main/Graphs/Top-Bottom%20Bases/Top%203%20Manager.png">
 </a>
-<a><img align="centre" src="">
-</a>
-</p>
-
-<p align="centre">
-<a><img align="centre" src="">
-</a>
-<a><img align="centre" src="">
+<a><img align="centre" src="https://github.com/Ritika821/Automobile-Power-BI-Dashboard/blob/main/Graphs/Top-Bottom%20Bases/Bottom%203%20Manager.png">
 </a>
 </p>
 
 <p align="centre">
-<a><img align="centre" src="">
+<a><img align="centre" src="https://github.com/Ritika821/Automobile-Power-BI-Dashboard/blob/main/Graphs/Top-Bottom%20Bases/Top%203%20State.png">
 </a>
-<a><img align="centre" src="">
+<a><img align="centre" src="https://github.com/Ritika821/Automobile-Power-BI-Dashboard/blob/main/Graphs/Top-Bottom%20Bases/Bottom%203%20State.png">
+</a>
+</p>
+
+<p align="centre">
+<a><img align="centre" src="https://github.com/Ritika821/Automobile-Power-BI-Dashboard/blob/main/Graphs/Top-Bottom%20Bases/Top%203%20Cars.png">
+</a>
+<a><img align="centre" src="https://github.com/Ritika821/Automobile-Power-BI-Dashboard/blob/main/Graphs/Top-Bottom%20Bases/Bottom%203%20Cars.png">
 </a>
 </p>
 
