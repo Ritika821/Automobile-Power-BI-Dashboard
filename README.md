@@ -132,5 +132,5 @@ This project is helpful for both customers as well as companies. For customer, i
 
 ## Author :
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-. [@Ritika821](https://github.com/Ritika821)
-. Ritika - Data Analyst
+- [@Ritika821](https://github.com/Ritika821)
+- Ritika - Data Analyst
