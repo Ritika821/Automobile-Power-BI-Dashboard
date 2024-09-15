@@ -49,7 +49,7 @@ In this Project, the measures display total quantity sold of the cars is 9673, t
 11. Does there is any kind of relationship between sold price and car insurance and which State has maximum car insurance and state tax ?
 12. Which are the Top 3 Managers contributing to the Sales and the Bottom 3 Managers with worst performance ?
 13. Which are the Top 3 States contributing to the Sales and the Bottom 3 State with the least contribution ?
-14. WHich are the Top 3 Cars highly popular in the market and the Bottom 3 Cars with the low sale ?
+14. Which are the Top 3 Cars highly popular in the market and the Bottom 3 Cars with the low sale ?
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
