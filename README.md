@@ -23,6 +23,16 @@ This project is about some specific Automobile brands. It contains data of cars 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+## Dashboard :
+
+<p>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjYyODEzOGEtZDI3MC00NGE1LWJiZTAtMzU3YTk3N2NiMDBjIiwidCI6ImQ0YjRjNTZiLTU0N2MtNDU3Mi04MmMyLWM4YzFhMWQ2MGZmMCJ9"><img src="Graphs/Dashboard.png"/>
+  </a>
+</p>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## Project KPI :
 
 In this Project, the measures display total quantity sold of the cars is 9673, total revenue generated is 313M, total State Tax paid is 4.29M and total Car Insurance paid is 28.45M. These are show in the form of KPI.
