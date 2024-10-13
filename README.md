@@ -26,7 +26,7 @@ This project is about some specific Automobile brands. It contains data of cars 
 ## Dashboard :
 
 <p>
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjYyODEzOGEtZDI3MC00NGE1LWJiZTAtMzU3YTk3N2NiMDBjIiwidCI6ImQ0YjRjNTZiLTU0N2MtNDU3Mi04MmMyLWM4YzFhMWQ2MGZmMCJ9"><img src="Graphs/Dashboard.png"/>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjYyODEzOGEtZDI3MC00NGE1LWJiZTAtMzU3YTk3N2NiMDBjIiwidCI6ImQ0YjRjNTZiLTU0N2MtNDU3Mi04MmMyLWM4YzFhMWQ2MGZmMCJ9&pageName=01a030febed918d047cd"><img src="Graphs/Dashboard.png"/>
   </a>
 </p>
 
